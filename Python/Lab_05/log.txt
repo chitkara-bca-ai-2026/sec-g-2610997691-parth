@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Imported the math module and used pow(), sqrt(), ceil(), and floor() directly on the inputs.
+
+2. Errors Faced:
+- Error: NameError: name 'math' is not defined.
+  Fix: I forgot to add `import math` at the very top of my file.
+
+3. Output:
+Calculated everything correctly. Formatted the square root to 4 decimal places.

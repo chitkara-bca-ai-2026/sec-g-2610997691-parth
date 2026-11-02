@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Used a for loop (range 1 to 6) to take marks for 5 subjects. Kept a boolean flag `failed` that turns True if any subject is below 40.
+
+2. Errors Faced:
+- Error: I was getting weird passing grades when failing one subject but having > 80% total.
+  Fix: Made sure to override the grade check if `failed` is true, making it an automatic F.
+
+3. Output:
+Report card printed beautifully!

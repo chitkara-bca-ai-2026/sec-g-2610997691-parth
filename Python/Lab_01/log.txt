@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Took inputs one by one using input() and converted them to float to calculate the total fee. Multiplied the semester fee by 2 for the annual fee.
+
+2. Errors Faced:
+- Error: Got a TypeError when calculating the total.
+  Fix: Realized input() gives a string, so I had to wrap them in float().
+
+3. Output:
+Calculated monthly fee correctly to two decimals!

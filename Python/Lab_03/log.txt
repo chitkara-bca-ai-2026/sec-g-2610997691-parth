@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Very straightforward. I used print statements with dashes to format the borders and f-strings for printing the details.
+
+2. Errors Faced:
+- Error: The border lines weren't matching the expected output exactly.
+  Fix: Just counted the dashes and equal signs manually to match the layout.
+
+3. Output:
+Ran fine and looks exactly like the screenshot!

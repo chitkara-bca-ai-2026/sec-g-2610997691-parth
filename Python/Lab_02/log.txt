@@ -1,0 +1,9 @@
+Lab Reflection:
+1. Approach:
+Just took the inputs and used the type() function to print their data types. I used a simple == check to convert the active status into a boolean.
+
+2. Errors Faced:
+Ran on first attempt without errors!
+
+3. Output:
+Printed all the types and employee details formatted nicely.

@@ -1,0 +1,9 @@
+Lab Reflection:
+1. Approach:
+Basic math operations for the shop bill. Just multiplied price and quantity.
+
+2. Errors Faced:
+Ran on first attempt without errors!
+
+3. Output:
+Simple bill generated correctly.

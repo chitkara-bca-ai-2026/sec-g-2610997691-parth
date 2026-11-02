@@ -1,0 +1,9 @@
+Lab Reflection:
+1. Approach:
+Used straightforward string methods: upper(), lower(), replace(), len(), and slicing syntax [start:end].
+
+2. Errors Faced:
+Ran on first attempt without errors!
+
+3. Output:
+String slicing and methods are working exactly as expected.

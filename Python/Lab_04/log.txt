@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Used string formatting to align the columns nicely for the type casting summary table. Also practiced type conversion with float() and int().
+
+2. Errors Faced:
+- Error: Columns in the table were unaligned and messy.
+  Fix: Learned to use left-alignment in f-strings like :<15 to make it look like a neat table.
+
+3. Output:
+Output table looks identical to what was asked.

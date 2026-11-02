@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Used a nested if-else structure to handle the century vs non-century logic for leap years. 
+
+2. Errors Faced:
+- Error: My code failed on the year 1900. It said it was a leap year when it shouldn't be.
+  Fix: Added the century check (divisible by 100) to correctly identify 1900 as a common year.
+
+3. Output:
+Leap years and common years are checking successfully now!

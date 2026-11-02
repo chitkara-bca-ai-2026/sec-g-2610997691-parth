@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Iterated through each character in the string using a for loop and incremented my counters based on if-elif checks.
+
+2. Errors Faced:
+- Error: I got a ZeroDivisionError when calculating the vowel percentage for an empty string or a string with no letters.
+  Fix: Added a quick ternary check `if total_letters > 0 else 0` to prevent division by zero.
+
+3. Output:
+Word and character counts exactly match the expected output.

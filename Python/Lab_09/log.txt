@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Used nested loops for the number triangle and simple string multiplication (like `* ` * i) for the star patterns.
+
+2. Errors Faced:
+- Error: In Pattern 2, the numbers were printing on separate vertical lines instead of a triangle.
+  Fix: Used `end=" "` in the print statement to keep them on the same line, and added an empty print() after the inner loop.
+
+3. Output:
+All 4 patterns matched perfectly!

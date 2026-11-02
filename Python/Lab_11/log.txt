@@ -1,0 +1,10 @@
+Lab Reflection:
+1. Approach:
+Used the len() function, and list comprehensions with any() to check for digits and uppercase letters inside the string.
+
+2. Errors Faced:
+- Error: I tried to use password.isdigit() but that checks if the WHOLE string is numbers, so it failed.
+  Fix: Changed to a loop that iterates over characters and checks each one individually using isdigit() and isupper().
+
+3. Output:
+Password validation rules checked accurately.
